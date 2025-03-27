@@ -13,15 +13,15 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["56928561853", 'MichiBot', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
-["56941827124"], 
-["56941827124"],
-["56941827124"],
-["51964767711"],
-["51906168999"],
-["5492932535249"],
-["56985836955"],
-["56928561853"]]
+["527771303481", 'MichiBot', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
+["527771303481"], 
+["527771303481"],
+["527771303481"],
+["527771303481"],
+["527771303481"],
+["527771303481"],
+["527771303481"],
+["527771303481"]]
 
 global.mods = []
 global.prems = []
@@ -126,9 +126,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["56941827124", 'MichiBot', 1], 
-["56928561853", 'MichiBot', 1],  
-["56941827124", 'MichiBot', 1]]
+["527771303481", 'MichiBot', 1], 
+["527771303481", 'MichiBot', 1],  
+["527771303481", 'MichiBot', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -173,7 +173,7 @@ global.exito = eg
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 global.wm = "MichiBot"
 global.igfg = "MichiBot"
-global.nomorown = "593993684821"
+global.nomorown = "527771303481"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -431,16 +431,16 @@ else return emotttt[results[0][0]];
 
 // IDs de canales
 global.ch = {
-ch1: '120363377364667058@newsletter',
-ch2: '120363258427334062@newsletter',
-ch3: '120363258427334062@newsletter',
-ch4: '120363258427334062@newsletter',
-ch5: '120363258427334062@newsletter',
-ch6: '120363258427334062@newsletter',
-ch7: '120363258427334062@newsletter',
-ch8: '120363258427334062@newsletter', 
-ch9: '120363258427334062@newsletter',
-ch10: '120363258427334062@newsletter',
+ch1: '120363400536272752@newsletter',
+ch2: '120363400536272752@newsletter',
+ch3: '120363400536272752@newsletter',
+ch4: '120363400536272752@newsletter',
+ch5: '120363400536272752@newsletter',
+ch6: '120363400536272752@newsletter',
+ch7: '120363400536272752@newsletter',
+ch8: '120363400536272752@newsletter', 
+ch9: '120363400536272752@newsletter',
+ch10: '120363400536272752@newsletter',
 }
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -451,16 +451,16 @@ console.log(chalk.redBright("Update 'config.js'"));
 import(`${file}?update=${Date.now()}`);
 })
 
-global.yt = 'https://www.instagram.com/ceogeripium.dzn'
-global.ig = 'https://www.instagram.com/ceogeripium.dzn'
-global.md = 'https://www.instagram.com/ceogeripium.dzn'
+global.yt = 'https://www.instagram.com/richetti_123'
+global.ig = 'https://www.instagram.com/richetti_123'
+global.md = 'https://www.instagram.com/richetti_123'
 global.fb = 'https://www.instagram.com/richetti_123'
 global.tk = 'https://www.instagram.com/richetti_123'
 global.ths = 'https://www.instagram.com/richetti_123'
 global.paypal = 'https://paypal.me/richetti123'
-global.asistencia = 'https://wa.me/56928561853'
+global.asistencia = 'https://wa.me/527771303481'
 global.all = 'https://www.instagram.com/richetti_123'
-global.canal1 = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M'
-global.canal2 = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M'
-global.canal3 = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M'
-global.canal4 = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M'
+global.canal1 = 'https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G'
+global.canal2 = 'https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G'
+global.canal3 = 'https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G'
+global.canal4 = 'https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G'
