@@ -13,15 +13,15 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["527771303481", 'MichiBot', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
-["527771303481"], 
-["527771303481"],
-["527771303481"],
-["527771303481"],
-["527771303481"],
-["527771303481"],
-["527771303481"],
-["527771303481"]]
+["5217771303481", 'MichiBot', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
+["5217771303481"], 
+["5217771303481"],
+["5217771303481"],
+["5217771303481"],
+["5217771303481"],
+["5217771303481"],
+["5217771303481"],
+["5217771303481"]]
 
 global.mods = []
 global.prems = []
@@ -126,9 +126,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["527771303481", 'MichiBot', 1], 
-["527771303481", 'MichiBot', 1],  
-["527771303481", 'MichiBot', 1]]
+["5217771303481", 'MichiBot', 1], 
+["5217771303481", 'MichiBot', 1],  
+["5217771303481", 'MichiBot', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -173,7 +173,7 @@ global.exito = eg
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 global.wm = "MichiBot"
 global.igfg = "MichiBot"
-global.nomorown = "527771303481"
+global.nomorown = "5217771303481"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -458,7 +458,7 @@ global.fb = 'https://www.instagram.com/richetti_123'
 global.tk = 'https://www.instagram.com/richetti_123'
 global.ths = 'https://www.instagram.com/richetti_123'
 global.paypal = 'https://paypal.me/richetti123'
-global.asistencia = 'https://wa.me/527771303481'
+global.asistencia = 'https://wa.me/5217771303481'
 global.all = 'https://www.instagram.com/richetti_123'
 global.canal1 = 'https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G'
 global.canal2 = 'https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G'
